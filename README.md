@@ -1,5 +1,7 @@
 # Admin LTE 3.2.0-rc - Vue 3.2.26
 
+Cloned from erdkse/adminlte-3-vue
+
 To login website use:
 
 `username:` admin@example.com<br />
